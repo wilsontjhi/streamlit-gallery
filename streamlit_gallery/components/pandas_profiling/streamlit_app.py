@@ -1,5 +1,5 @@
 import pandas as pd
-import pandas_profiling
+# import pandas_profiling
 import streamlit as st
 
 from streamlit_gallery.utils.readme import readme
